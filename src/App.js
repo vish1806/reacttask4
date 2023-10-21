@@ -1,5 +1,5 @@
 import './App.css';
-import Details from './components/Info';
+import Details from './info';
 function App() {
   return (
     <div className="App">
