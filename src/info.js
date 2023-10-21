@@ -1,4 +1,4 @@
-import {useState,useEffect,Component} from 'react';
+import {useState,useEffect,components} from 'react';
 import axios from 'axios';
 import './style.css';
 const Details=()=>{
